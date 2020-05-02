@@ -12,4 +12,4 @@ Algunos agricultores de paltos piensan que puede existir una relación entre el 
 1. Extraer las bandas de satélite de Sentinel 2, en un área de estudio determinada previamente, usando Sentinel Hub para un conjunto específico de fechas.
 2. Extraer los valores de NDVI promedio.
 3. Guardas las imágenes de NDVI.
-4. Realizar un análisis de los datos obtenidos para evaluar el comportamiento del NDVI en el tiempo en el área de estudio.
+4. Realizar un análisis de los datos obtenidos, con el fin de evaluar el comportamiento del NDVI en el tiempo en el área de estudio.
