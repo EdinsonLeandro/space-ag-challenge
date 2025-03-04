@@ -1,4 +1,4 @@
-# Space-AG-Challenge
+# Space AG Challenge
 
 ### NDVI.
 NDVI is a vegetation index that measures plant vigor, essentially an indirect measurement of plant health. The values of this index range from -1 to 1. Higher NDVI values in a given image pixel suggest higher crop biomass, meaning a healthier crop. Lower NDVI values suggest lower biomass or an unhealthy vegetation or crop area.
