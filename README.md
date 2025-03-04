@@ -1,15 +1,15 @@
 # Space-AG-Challenge
 
-### NDVI
-El NDVI es un índice de vegetación que mide el vigor de las plantas, es decir, una medición indirecta de la salud de la planta. Los valores de este índice van de -1 a 1. A mayor valor de NDVI en un determinado pixel de la imagen entonces se espera una mayor biomasa del cultivo, es decir un cultivo más sano. A menores valores de NDVI se espera una menor biomasa o un área de vegetación o cultivo enferma.
+### NDVI.
+NDVI is a vegetation index that measures plant vigor, essentially an indirect measurement of plant health. The values of this index range from -1 to 1. Higher NDVI values in a given image pixel suggest higher crop biomass, meaning a healthier crop. Lower NDVI values suggest lower biomass or an unhealthy vegetation or crop area.
 
-Asimismo, los valores de vegetación están entre 0.2 a 1 de NDVI. Así también, el suelo generalmente tienen valores negativos de NDVI hasta valores de 0.2 en este índice. Como información adicional, la presencia de nubes sobre el área evaluar afecta el promedio del NDVI.
+Generally, vegetation values fall between 0.2 and 1 on the NDVI scale. Soil typically has negative NDVI values up to 0.2. It's important to note that cloud cover over the area being assessed can affect the average NDVI.
 
-Algunos agricultores de paltos piensan que puede existir una relación entre el NDVI con el rendimiento (Kg/Ha) del cultivo.
+Some avocado farmers believe there might be a relationship between NDVI and crop yield (Kg/Ha).
 
-### El Desafío.
+### The Challenge.
 
-1. Extraer las bandas de satélite de Sentinel 2, en un área de estudio determinada previamente, usando Sentinel Hub para un conjunto específico de fechas.
-2. Extraer los valores de NDVI promedio.
-3. Guardas las imágenes de NDVI.
-4. Realizar un análisis de los datos obtenidos, con el fin de evaluar el comportamiento del NDVI en el tiempo en el área de estudio.
+1. Extract satellite bands from Sentinel 2, for a specific study area and set of dates, using Sentinel Hub.
+2. Extract average NDVI values.
+3. Save the NDVI images.
+4. Analyze the data to evaluate the NDVI behavior over time in the study area.
